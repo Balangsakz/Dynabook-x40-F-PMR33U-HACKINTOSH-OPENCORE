@@ -1,0 +1,2 @@
+# x40-F-PMR33U-HACKINTOSH-OPENCORE
+Mac on Dynabook X40-F
