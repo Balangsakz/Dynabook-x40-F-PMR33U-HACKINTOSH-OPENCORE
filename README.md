@@ -44,7 +44,7 @@ EC Version :
 
 | Type  | Status  | Comments |
 | ------------ | :------------: | ------------ |
-| **Sleep** | 🔴 | Cannot wake from sleep |
+| **Sleep** | 🟡 | Sleep OK, wake is broken |
 | **Bluetooth** | 🔴 | Not detected on internal USB, even though it has been mapped |
 | **Webcam** | 🔴 | BLANK |
 | **Thunderbolt3** | 🟡 | First port on top is work, bottom port not tested, because my hardware already broken, and not tested when wake from sleep, because sleep not work for now. |
