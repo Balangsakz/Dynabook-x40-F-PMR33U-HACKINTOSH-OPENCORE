@@ -20,7 +20,7 @@ CPU : Prosesor Intel® Core™ `i7-8665U`, 4 Core 8 Thread @1.9GHz - Whiskey Lak
 
 GPU: `Intel UHD Graphics 620`
 
-RAM: 16GBx2, DDR4 
+RAM: 16GBx2, DDR4-2666
 
 Disk: ADATA SX6000LNP 500GB
 
@@ -34,9 +34,9 @@ Touchscreen : LGDisplay Incell Touch
 
 Webcam : Toshiba Web Camera - HD
 
-Bios Version : 
+Bios Version : 4.20
 
-EC Version :
+EC Version : 3.30
 
 ## Status
 
